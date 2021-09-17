@@ -16,3 +16,5 @@ You will also see any lint errors in the console.
 
 1. Install golang and gomod in your machine
 2. `./src/run.sh`
+
+
